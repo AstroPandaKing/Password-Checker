@@ -4,7 +4,7 @@ function checkPassword() {
   const inputWrapper = document.querySelector(".input-wrapper");
   const passwordIndicators = document.getElementById("passwordIndicators");
   let strength = "";
-  let borderColor = ""; // To hold the color of the border
+  let borderColor = "";
 
   // Strength checks
   if (password.length < 6) {
