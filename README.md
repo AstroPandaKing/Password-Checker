@@ -7,3 +7,4 @@ It evaluates the strength of a password based on:
 > and gives visual indicators of its security.
 
 The website is accessible via the link pandalfer.github.io/Password-Checker
+ 
